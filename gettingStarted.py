@@ -15,16 +15,16 @@ def welcome_assignment_answers(question):
         answer = "No"
 
     elif question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
-        answer = "7c3a6b0b0fef0d1a1c7fd0c0a3f1e9b1d1c1c8e6a0e3f4b7c4b0c7b3c0a65c3f"
+        answer = "4b3f6b6c66e2b7c7b8f0c3b3a6f0a28b0c5bb5f8a9a9c35cdbd22fc8c9e1a0cf"
 
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
         answer = "No"
 
     elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
-        answer = 4  
+        answer = 5  
 
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
-        answer = 2  
+        answer = 3  
 
     else:
         answer = "This is not my beautiful wife! This is not my beautiful car! How did I get here?"
